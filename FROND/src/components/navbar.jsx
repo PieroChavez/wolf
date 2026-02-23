@@ -16,7 +16,7 @@ import {
   TabPanels,
 } from '@headlessui/react'
 import { Bars3Icon, MagnifyingGlassIcon, ShoppingBagIcon, XMarkIcon } from '@heroicons/react/24/outline'
-import logo from './../assets/logo/logowolf.jpeg'
+import logo from '../assets/logo/logowolf.jpeg'
 
 const navigation = {
   categories: [
